@@ -12,6 +12,8 @@ Dies sind Markdown-Dateien, die im Frontend von Home Assistant genutzt werden k�
 1. Installation der Integration von 17TRACK in Home Assistant:  
    [home-assistant.io](https://www.home-assistant.io/integrations/seventeentrack/)
 
+Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintragen. (Diese erhältst du normalerweise vom Versender deines Pakets.) – Unter _‚Memo‘_ solltest du am besten einen Hinweis zum Paketinhalt hinterlassen. Dieser wird später als „Paketname“ angezeigt.
+
 ---
 
 ## Einrichtung
