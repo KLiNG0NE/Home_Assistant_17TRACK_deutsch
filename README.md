@@ -23,6 +23,8 @@ Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintra
 1. Als Karten-Typ nutzt du _Markdown_.
 1. Gib als _‚Titel‘_ einen sprechenden Namen wie ``Pakete in Zustellung`` an.
 1. In dem Feld _‚Code‘_ kannst du den gewünschten Inhalt einer Markdown-Datei einfügen.
+1. Füge auf gleiche Weise Karten für „Pakete bereit zur Abholung“ sowie „Zugestellte Pakete“ hinzu.
+1. Bei der Karte „Pakete bereit zur Abholung“ bietet es sich an, die Sichbarkeit einzuschränken. Hierzu bei ‚Sichtbarkeit‘ die Einträge ``Entitätszustand`` die Entität ``17Track Bereit zur Abholung`` und Zustand ist nicht glaich Zustand ``0`` eintragen. – So wird diese Karte nur angezeigt, wenn Pakete zur Abholung bereit sind.
 
 ---
 
