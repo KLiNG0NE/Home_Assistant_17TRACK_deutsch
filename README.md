@@ -12,7 +12,17 @@ Dies sind Markdown-Dateien, die im Frontend von Home Assistant genutzt werden k�
 1. Installation der Integration von 17TRACK in Home Assistant:  
    [home-assistant.io](https://www.home-assistant.io/integrations/seventeentrack/)
 
+---
+
 ## Einrichtung
-1. Lege am besten in der Übersicht eine neue _Kategrie_ z. B. mit dem Namen _Pakete_ oder _Zustellungen_ an.
+1. Lege am besten in der Übersicht eine neue _Kategrie_ z. B. mit dem Namen ``Pakete`` oder ``Zustellungen`` an.  
+   Als _‚Symbol‘_ kannst du z. B. ``mdi:package-variant-closed`` nutzen.
 1. Füge eine neue _Karte_ hinzu.
-1. Als Karten-Typ nutzt Du _Markdown_.
+1. Als Karten-Typ nutzt du _Markdown_.
+1. Gib als _‚Titel‘_ einen sprechenden Namen wie ``Pakete in Zustellung`` an.
+1. In dem Feld _‚Code‘_ kannst du den gewünschten Inhalt einer Markdown-Datei einfügen.
+
+---
+
+#### Info
+Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle Verbindungen.
