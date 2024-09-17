@@ -24,7 +24,7 @@ Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintra
 1. Gib als _‚Titel‘_ einen sprechenden Namen wie ``Pakete in Zustellung`` an.
 1. In dem Feld _‚Code‘_ kannst du den gewünschten Inhalt einer Markdown-Datei einfügen.
 1. Füge auf gleiche Weise Karten für _„Pakete bereit zur Abholung“_ sowie _„Zugestellte Pakete“_ hinzu.
-1. Bei der Karte _„Pakete bereit zur Abholung“_ bietet es sich an, die Sichbarkeit einzuschränken. Hierzu bei _‚Sichtbarkeit‘_ die Einträge ``Entitätszustand`` die Entität ``17Track Bereit zur Abholung`` und ``Zustand ist nicht glrich`` Zustand ``0`` eintragen. – So wird diese Karte nur angezeigt, sobald Pakete zur Abholung bereit sind.
+1. Bei der Karte _„Pakete bereit zur Abholung“_ bietet es sich an, die Sichbarkeit einzuschränken. Hierzu bei _‚Sichtbarkeit‘_ die Einträge ``Entitätszustand`` die Entität ``17Track Bereit zur Abholung`` und ``Zustand ist nicht gleich`` Zustand ``0`` eintragen. – So wird diese Karte nur angezeigt, sobald Pakete zur Abholung bereit sind.
 
 ---
 
