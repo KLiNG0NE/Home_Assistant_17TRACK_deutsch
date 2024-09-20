@@ -1,5 +1,9 @@
 # Home Assistant 17TRACK deutsch
 
+
+![Static Badge](https://img.shields.io/badge/Letzter_Test_mit-Home_Assistant_2024.9.2-blue)
+
+
 Mit diesen Markdown-Dateien werden die Ausgaben der _17TRACK-Integration_ im Frontend von _Home Assistant_ in die deutsche Sprache übersetzt.
 
 Dies sind Markdown-Dateien, die im Frontend von Home Assistant genutzt werden können.
