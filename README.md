@@ -1,7 +1,7 @@
 # Home Assistant 17TRACK deutsch
 
 
-![Static Badge](https://img.shields.io/badge/Home_Assistant-2024.9.2-3BC5F3?logo=homeassistant&logoColor=white&logoSize=auto&label=Home%20Assistant&labelColor=3BC5F3&color=grey)
+![Static Badge](https://img.shields.io/badge/Home_Assistant-2024.9.2-3BC5F3?logo=homeassistant&logoColor=white&logoSize=auto&label=Home%20Assistant&labelColor=3BC5F3&color=grey) ![Static Badge](https://img.shields.io/badge/17-TRACK-FF8C00?logoSize=auto&labelColor=FF8C00&color=003A9B&)
 
 
 Mit diesen Markdown-Dateien werden die Ausgaben der _17TRACK-Integration_ im Frontend von _Home Assistant_ in die deutsche Sprache übersetzt.
