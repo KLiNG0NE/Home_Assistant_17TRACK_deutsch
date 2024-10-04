@@ -33,4 +33,4 @@ Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintra
 ---
 
 #### Info
-Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle Verbindungen.
+Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle oder anderweitige Verbindungen.
