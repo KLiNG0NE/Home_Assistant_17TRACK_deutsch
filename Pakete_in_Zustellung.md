@@ -37,6 +37,7 @@
   {% elif info_text == "【广东省深圳市国际互换局】已出口直封" %} Die Sendung hat das Verteilzentrum verlassen und wird an Shenzhen International gesendet.
   {% elif info_text == "航空公司接收" %} Die Fluggesellschaft hat die Sendung erhalten.
   {% elif info_text == "到达寄达地" %} Ankunft am Zustellort
+  {% elif info_text == "Arrived at departure transport hub, Carrier note: Arrived at departure transport hub" %} Angekommen im Abflug-Transportzentrum
   {% elif info_text == "Original" %} Übersetzung
   {% elif info_text == "Original" %} Übersetzung
   {% else %}{{ package.info_text }}{% endif %}{% set location = package.location %}{% if location == "深圳市" %} Shenzhen (China)
