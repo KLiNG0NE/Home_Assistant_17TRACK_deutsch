@@ -32,5 +32,10 @@ Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintra
 
 ---
 
+## Weitere Infos im Wiki
+Weitere Infos zu diesem Projekt auf der [Wiki-Seite auf GitHub](https://github.com/KLiNG0NE/Home_Assistant_17TRACK_deutsch/wiki).
+
+---
+
 #### Info
 Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle oder anderweitige Verbindungen.
