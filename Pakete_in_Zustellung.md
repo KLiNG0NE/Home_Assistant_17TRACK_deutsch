@@ -25,7 +25,7 @@
   {% elif info_text == "GMTC, Departed" %} GMTC, In Transitland abgefahren. 
   {% elif info_text == "Out for delivery." %} Zur Auslieferung bereit.
   {% elif info_text == "Yanwen facility - Outbound" %} Yanwen-Einrichtung - Ausgehend
-  {% elif info_text == "Export customs clearance complete, Carrier note: Export clearance success" %} Exportverzollung abgeschlossen, Spediteurhinweis: Exportabfertigung erfolgreich
+  {% elif info_text == "Export customs clearance complete, Carrier note: Export clearance success" %} Exportverzollung abgeschlossen
   {% elif info_text == "飞机进港" %} Das Flugzeug kam am Einreiseflughafen an.
   {% elif info_text == "Arrived at customs, Carrier note: Arrived at customs" %} Angekommen beim Zoll
   {% elif info_text == "Departed from transit country/region, Carrier note: Depart from transit country or district" %} Abgereist aus Transitland/-region
@@ -38,6 +38,8 @@
   {% elif info_text == "航空公司接收" %} Die Fluggesellschaft hat die Sendung erhalten.
   {% elif info_text == "到达寄达地" %} Ankunft am Zustellort
   {% elif info_text == "Arrived at departure transport hub, Carrier note: Arrived at departure transport hub" %} Angekommen im Abflug-Transportzentrum
+  {% elif info_text == "Order data transmitted electronically." %} Auftragsdaten wurden elektronisch übermittelt.
+  {% elif info_text == "Leaving from departure country/region, Carrier note: Leaving from departure country/region" %} Abflug aus Abgangsland/-region
   {% elif info_text == "Original" %} Übersetzung
   {% elif info_text == "Original" %} Übersetzung
   {% else %}{{ package.info_text }}{% endif %}{% set location = package.location %}{% if location == "深圳市" %} Shenzhen (China)
