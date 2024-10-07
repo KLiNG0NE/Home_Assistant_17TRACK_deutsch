@@ -41,6 +41,7 @@
   {% elif info_text == "Order data transmitted electronically." %} Auftragsdaten wurden elektronisch übermittelt.
   {% elif info_text == "Leaving from departure country/region, Carrier note: Leaving from departure country/region" %} Abflug aus Abgangsland/-region
   {% elif info_text == "Departed from departure country/region, Carrier note: Left from departure country/region" %} Abgereist aus Abgangsland/-region
+  {% elif info_text == "Import customs clearance complete, Carrier note: Import customs clearance complete" %} Einfuhrzollabfertigung abgeschlossen
   {% elif info_text == "Original" %} Übersetzung
   {% elif info_text == "Original" %} Übersetzung
   {% else %}{{ package.info_text }}{% endif %}{% set location = package.location %}{% if location == "深圳市" %} Shenzhen (China)
