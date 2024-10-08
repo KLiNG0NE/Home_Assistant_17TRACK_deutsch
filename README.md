@@ -39,3 +39,5 @@ Weitere Infos zu diesem Projekt auf der Wiki-Seite auf [GitHub](https://github.c
 
 #### Info
 Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle oder anderweitige Verbindungen.
+
+Inspiriert von [github.com/Morpheus2018](https://github.com/Morpheus2018/HA-17TRACK-Translate)
