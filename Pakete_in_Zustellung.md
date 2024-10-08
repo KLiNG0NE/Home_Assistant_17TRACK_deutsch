@@ -42,12 +42,14 @@
   {% elif info_text == "Leaving from departure country/region, Carrier note: Leaving from departure country/region" %} Abflug aus Abgangsland/-region
   {% elif info_text == "Departed from departure country/region, Carrier note: Left from departure country/region" %} Abgereist aus Abgangsland/-region
   {% elif info_text == "Import customs clearance complete, Carrier note: Import customs clearance complete" %} Einfuhrzollabfertigung abgeschlossen
+  {% elif info_text == "Awaiting for transit to final delivery office, Carrier note: Package arrived at facility of the local delivery company" %} Das Paket ist in der Einrichtung des örtlichen Zustellunternehmens angekommen
+  {% elif info_text == "Parcel center of origin." %} Herkunftsort des Pakets
   {% elif info_text == "Original" %} Übersetzung
   {% elif info_text == "Original" %} Übersetzung
-  {% else %}{{ package.info_text }}{% endif %}{% set location = package.location %}{% if location == "深圳市" %} Shenzhen (China)
+  {% else %}{{ package.info_text }} {% endif %} {% set location = package.location %} {% if location == "Germany" %} Deutschland
+  {% elif location == "深圳市" %} Shenzhen (China)
   {% elif location == "Original" %} Übersetzung
-  {% elif location == "Original" %} Übersetzung
-  {% elif location == "Original" %} Übersetzung{% else %}{{ package.location }}{% endif %}
+  {% elif location == "Original" %} Übersetzung {% else %} {{ package.location }} {% endif %}
 
 ---
 
