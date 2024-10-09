@@ -33,7 +33,7 @@ Deine Sendungsnummern kannst du anschließend auf der Website von 17TRACK eintra
 ---
 
 ## Weitere Infos im Wiki
-Weitere Infos zu diesem Projekt auf der zugehörigen [Wiki-Seite auf GitHub](https://github.com/KLiNG0NE/Home_Assistant_17TRACK_deutsch/wiki).
+Weitere Informationen zu diesem Projekt auf der zugehörigen [Wiki-Seite auf GitHub](https://github.com/KLiNG0NE/Home_Assistant_17TRACK_deutsch/wiki).
 
 ---
 
