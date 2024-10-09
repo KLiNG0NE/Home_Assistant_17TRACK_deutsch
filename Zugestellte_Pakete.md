@@ -9,7 +9,7 @@
 {% elif info_text == "Delivery successful."%} Die Zustellung war erfolgreich. 
 {% elif info_text == "The recipient has picked up the shipment from the retail outlet" %} Der Empfänger hat die Sendung in der Verkaufsstelle abgeholt.
 {% elif info_text == "Delivered., Evidence" %} Auslieferung bestätigt
-{% elif info_text == "Package delivered, Carrier note: Package delivered" %} Paket wurde geliefert.
+{% elif info_text == "Package delivered, Carrier note: Package delivered" %} Paket wurde geliefert
 {% elif info_text == "Original" %} Übersetzung
 {% elif info_text == "Original" %} Übersetzung
 {% elif info_text == "Original" %} Übersetzung
