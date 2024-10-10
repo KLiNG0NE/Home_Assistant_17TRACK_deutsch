@@ -47,4 +47,4 @@ Dieses Projekt wurde inspiriert von [github.com/Morpheus2018](https://github.com
 
 ---
 
-<sub>Created with ❤️ and ⚓ by [KLiNG0NE](https://github.com/KLiNG0NE/) in 2024</sub>
+<sub>Created with&nbsp;❤️ and&nbsp;⚓ by [KLiNG0NE](https://github.com/KLiNG0NE/) in&nbsp;2024</sub>
