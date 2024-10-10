@@ -38,6 +38,6 @@ Weitere Informationen zu diesem Projekt auf der zugehörigen [Wiki-Seite auf Git
 ---
 
 #### Info
-Dies ist ein rein privates Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) finanzielle oder anderweitige Verbindungen.
+Dies ist ein _rein privates_ Projekt. – Es bestehen weder mit [Home Assistant](https://www.home-assistant.io/) noch mit [17TRACK](https://www.17track.net/de) oder [DHL](https://www.dhl.de/) finanzielle oder anderweitige geschäftliche Verbindungen. Bei datenschutzrechtlichen Fragen, wenden Sie sich bitte direkt an diese Anbieter.
 
-Inspiriert von [github.com/Morpheus2018](https://github.com/Morpheus2018/HA-17TRACK-Translate)
+Dieses Projekt wurde inspiriert von [github.com/Morpheus2018](https://github.com/Morpheus2018/HA-17TRACK-Translate).
