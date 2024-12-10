@@ -43,7 +43,7 @@
   {% elif info_text == "Departed from departure country/region, Carrier note: Left from departure country/region" %} Abgereist aus Abgangsland/-region
   {% elif info_text == "Import customs clearance complete, Carrier note: Import customs clearance complete" %} Einfuhrzollabfertigung abgeschlossen
   {% elif info_text == "Awaiting for transit to final delivery office, Carrier note: Package arrived at facility of the local delivery company" %} Das Paket ist in der Einrichtung des örtlichen Zustellunternehmens angekommen
-  {% elif info_text == "Parcel center of origin." %} Herkunftsort des Pakets
+  {% elif info_text == "Parcel center of origin." %}  Paketketzentrum des Herkunftsorts
   {% elif info_text == "Preparation for onward transport" %} Vorbereitung für den Weitertransport
   {% elif info_text == "Original" %} Übersetzung
   {% elif info_text == "Original" %} Übersetzung
